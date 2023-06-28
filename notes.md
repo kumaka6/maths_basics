@@ -7,14 +7,14 @@ This repository contains mathematics basic revision from schoolyourself.org
 * addition , subtraction, multiplication , division
 
 ### ADDITION AND SUBTRACTION
-* Number line: locating integer and non-integers on the number line  
+* **Number line**: locating integer and non-integers on the number line  
   + Integers (positive and negative), floating numbers ( decimal numbers).  
-* Addition: Using the number line to add numbers
-* Subtraction: Moving left on the number line
-* Adding negatives: What happens when you add negative numbers?
-* Substracting negatives: Turns out it's addition!
-* Absolute value: The 'size' of a number, or how far it is from zero.
-* Number line distance: Ways to find the distance between any two numbers.
+* **Addition**: Using the number line to add numbers
+* **Subtraction**: Moving left on the number line
+* **Adding negatives**: What happens when you add negative numbers?
+* **Substracting negatives**: Turns out it's addition!
+* **Absolute value**: The 'size' of a number, or how far it is from zero.
+* **Number line distance**: Ways to find the distance between any two numbers.
 
 **NOTES**
 ```
@@ -25,24 +25,24 @@ negative + negative is positive (symbol). -3 - (-6) = -3
 ```
 
 ### MULTIPLICATION AND DIVISION
-* Multiplication: multiplying positive numbers, in any order.
+* **Multiplication**: multiplying positive numbers, in any order.
   + 4*7 = 28, 4 times 7 is 28.  
-* Multiplying by 1 and 0 : Discover what happens when you multiply by 1 and 0.
-* Division: Dividing positive number and ways to think about it.
+* **Multiplying by 1 and 0** : Discover what happens when you multiply by 1 and 0.
+* **Division**: Dividing positive number and ways to think about it.
   + evaluate quotient
-* Dividing by 0: An operation you just can't perform.
+* **Dividing by 0**: An operation you just can't perform.
 
-* order of operations: is there more than one way to evaluate an expression?
+* **order of operations**: is there more than one way to evaluate an expression?
 	+ **left to right**
 	+ perform **multiplication** and **division** before **addition** and **subtraction**.
 	+ evaluate what's in parenthesis first.
 	+ **PMADS**
 	+ **PEMDAS**
-* Distributive law: Getting rid of parenthesis when you add and multiply.  
+* **Distributive law**: Getting rid of parenthesis when you add and multiply.  
 	+ 3 * (6+4) = 3*6 + 3*4 = 30  
 	+ 3 *(7-2) = 3*7 - 3*2 = 15  
 	+ 5 *(6+5-2) = 5*6 + 5*5 - 5*2 = 45  
-Multiplying negatives: what happens when you multiply  negative together?
+* **Multiplying negatives**: what happens when you multiply  negative together?
 	+
 
 	
