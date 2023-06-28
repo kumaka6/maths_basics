@@ -31,3 +31,18 @@ negative + negative is positive (symbol). -3 - (-6) = -3
 * Division: Dividing positive number and ways to think about it.
   + evaluate quotient
 * Dividing by 0: An operation you just can't perform.
+
+* order of operations: is there more than one way to evaluate an expression?
+	+ **left to right**
+	+ perform **multiplication** and **division** before **addition** and **subtraction**.
+	+ evaluate what's in parenthesis first.
+	+ **PMADS**
+	+ **PEMDAS**
+* Distributive law: Getting rid of parenthesis when you add and multiply.  
+	+ 3 * (6+4) = 3*6 + 3*4 = 30  
+	+ 3 *(7-2) = 3*7 - 3*2 = 15  
+	+ 5 *(6+5-2) = 5*6 + 5*5 - 5*2 = 45  
+Multiplying negatives: what happens when you multiply  negative together?
+	+
+
+	
