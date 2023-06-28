@@ -26,10 +26,10 @@ negative + negative is positive (symbol). -3 - (-6) = -3
 
 ### MULTIPLICATION AND DIVISION
 1. **Multiplication**: multiplying positive numbers, in any order.
-  + 4*7 = 28, 4 times 7 is 28.  
+	+ 4*7 = 28, 4 times 7 is 28.  
 2. **Multiplying by 1 and 0** : Discover what happens when you multiply by 1 and 0.  
 3. **Division**: Dividing positive number and ways to think about it.
-  + evaluate quotient
+	+ evaluate quotient
 4. **Dividing by 0**: An operation you just can't perform.
 
 5. **order of operations**: is there more than one way to evaluate an expression?
