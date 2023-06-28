@@ -1,6 +1,6 @@
 # MATHS BASICS
 
-This repository contains mathematics basic revision from schoolyourself.org 
+This repository contains mathematics basic revision from [schoolyourself.org](https://schoolyourself.org/)  
 
 ## ALGEBRA
 
@@ -43,6 +43,22 @@ negative + negative is positive (symbol). -3 - (-6) = -3
 	+ 3 *(7-2) = 3*7 - 3*2 = 15  
 	+ 5 *(6+5-2) = 5*6 + 5*5 - 5*2 = 45  
 * **Multiplying negatives**: what happens when you multiply  negative together?
-	+
-
+	+ negative times a positive results in a negative.
+	+ negative times negative results in positive
+	+ positive times positive results in positive
+* **Dividing negative**: what happens when you divide negative numbers?  
+	+ -14/2 = -7 is (2*-7) = -14
+	+ 14/-2 = -7 is (-2 * -7) = 14
+	+ you can pull minus signs out of quotient.
+	+ minus sign by minus sign cancelled out negative  
+* **Distributing Negative**: Distributing a negative flips the sign.
+	+ -2.7 + 2.4 = -6
+	+ addition -> Substraction
+	+ Substraction -> addition
+* **Brackets and braces**: what to do when you have too many parenthesis?  
+	+ evaluate innermost parenthesis and work your way out  
+	+ outer parenthesis are often written as brackets or braces 
+* **Finding the average**: discover how to find the 'average' of numbers.  
+	+ divide sum by numbers
+	+ 
 	
