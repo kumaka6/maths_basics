@@ -3,7 +3,7 @@
 This repository contains mathematics basic revision from schoolyourself.org 
 
 
-#algebra
+# algebra
 
 > addition , subtraction, multiplication , division
 
