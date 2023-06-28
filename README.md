@@ -1,14 +1,43 @@
-# maths_basics
+# Title
 
-This repository contains mathematics basic revision from schoolyourself.org 
+## this is section
+
+### smaller section
+
+## Another main section 
+
+#### another smaller section 
+
+// double space gives next line  
+*italic*  
+**bold**  
+***italic and bold***  
+
+```
+code block 
+sample code block using three back ticks
+code block
+```
 
 
-# algebra
+inline `code block` 
 
-> addition , subtraction, multiplication , division
+link using square brackets followed by link in brackets/paranthesis.
+[test link here](https://github.com/kumaka6)  
 
-    'product' is what we get when multiply numbers.    3*5 = 15, 15 is the product.
-    'quotient' is a quantity produced by the division of two numbers. 6/3 = 2, 2 is the quotient.
-    'absolute' value is how far from '0' zero.    |-1| = 1, the absolute value is 1
-     negative + negative is positive (symbol). -3 - (-6) = -3 
+
+**images** 
+*using exclamation and square brakets alt text followed by line in paranthesis
+![alt text](static/img/example.png)
+
+### list 
+1. one
+1. two
+2. three
+
+> quote
+
+
+
+
 
