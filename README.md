@@ -16,7 +16,7 @@ THIS REPOSITORY CONTAINS MATHEMATICS BASIC REVISION FROM [SCHOOLYOURSELF.ORG](HT
 **Learn about functions, graphs, lines, and polynomials. "Algebra" is the math for describing how different things are related.**    
   
    
-####### ADDITION AND SUBTRACTION
+###### ADDITION AND SUBTRACTION
 ###### MULTIPLICATION AND DIVISION
 ###### FACTORING
 ##### FRACTIONS
