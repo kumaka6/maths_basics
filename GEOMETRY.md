@@ -1,5 +1,5 @@
 ## GEOMETRY 
-** The mathematics of lines, shapes, and angles. Essential stuff for describing the world around you.**
+**The mathematics of lines, shapes, and angles. Essential stuff for describing the world around you.**
 
 ### LINES AND ANGLES
 1.	**Lines, rays, & segments**: Learn about lines, rays, and line segments.  
