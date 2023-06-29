@@ -108,7 +108,7 @@ This repository contains mathematics basic revision from [schoolyourself.org](ht
 
 **Learn about functions, graphs, lines, and polynomials. "Algebra" is the math for describing how different things are related.**  
 
-* **DITION AND SUBTRACTION** 
+* **ADDITION AND SUBTRACTION** 
 * **MULTIPLICATION AND DIVISION**
 * **FACTORING**  
 * **FRACTIONS**   
