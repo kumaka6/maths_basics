@@ -1,18 +1,19 @@
-# ALGEBRA
-**Learn about functions, graphs, lines, and polynomials. "Algebra" is the math for describing how different things are related. **  
+# ALGEBRA  
 
-* **DITION AND SUBTRACTION** *  
-* **MULTIPLICATION AND DIVISION** *  
-* **FACTORING** *  
-* **FRACTIONS** *  
-* **POWERS AND ROOTS** *  
-* **RULES FOR POWERS** *  
-* **SOLVING EQUATIONS** *  
-* **INEQUALITIES AND SIMULTANEOUS EQUATIONS** *  
-* **COORDINATES** *  
-* **SLOPE** *  
-* **LINES** *  
-* **POLYNOMIALS** *  
+**Learn about functions, graphs, lines, and polynomials. "Algebra" is the math for describing how different things are related.**  
+
+* **DITION AND SUBTRACTION** 
+* **MULTIPLICATION AND DIVISION**
+* **FACTORING**  
+* **FRACTIONS**   
+* **POWERS AND ROOTS**   
+* **RULES FOR POWERS**   
+* **SOLVING EQUATIONS**   
+* **INEQUALITIES AND SIMULTANEOUS EQUATIONS**   
+* **COORDINATES**   
+* **SLOPE**   
+* **LINES**   
+* **POLYNOMIALS**   
 * **QADRATICS** 
 
 
@@ -20,7 +21,7 @@
 
 ### ADDITION AND SUBTRACTION
 1. **Number line**: locating integer and non-integers on the number line  
-	+ Integers (positive and negative), floating numbers ( decimal numbers).  
+	+ Integers (positive and negative), floating numbers (decimal numbers).  
 2. **Addition**: Using the number line to add numbers
 3. **Subtraction**: Moving left on the number line
 4. **Adding negatives**: What happens when you add negative numbers?
@@ -142,8 +143,8 @@ negative + negative is positive (symbol). -3 - (-6) = -3
 6. 	**Coefficients**: Numbers in front of variables.  
 7.	**Combining like terms**: Adding/subtracting terms with matching variables.  
 8. 	**Multi-step equations**: Sometimes it takes more than one step to solve!  
-9.	**Multivariable equations**: Solving equations when they have more than one variable.  
-10. 	**Unsolvable equations**: Some equations have no solutions, others have plenty!  
+9.	**Multivariable equations**: Solving equations when they have more than one variable.
+10.	**Unsolvable equations**: Some equations have no solutions, others have plenty!  
 
 
 
@@ -186,8 +187,9 @@ negative + negative is positive (symbol). -3 - (-6) = -3
 8.	**Inequalities (2 variables)**: Simplify inequalities with two variables and test solutions.  
 9.	**Graphing inequalities**: Graph inequalities on the coordinate plane.  
 
-### POLYNOMIALS
-1.	**What are polynomials? **: Learn about a common type of algebraic expression.  
+### POLYNOMIALS  
+
+1.	**What are polynomials?**: Learn about a common type of algebraic expression.  
 2.	**Adding polynomials**: Computing sums and difference of polynomials.  
 3. 	**Multiplying monomials**: Multiply and divide polynomials with one term.  
 4.	**Multiplying binomials**: Multiply binomials together using FOIL.  
@@ -201,3 +203,8 @@ negative + negative is positive (symbol). -3 - (-6) = -3
 4.	**Factoring quadratics**: An extremely useful trick for solving some equations.  
 5. 	**The quadratic formula**: A method for solving ANY quadratic equations.  
 6.	**Discriminants and roots**: A quick way to tell how many solutions a quadratic has.  
+
+
+
+
+
