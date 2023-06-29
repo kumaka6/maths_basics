@@ -1,5 +1,5 @@
 ## ALGEBRA II  
-** Take the next step in Algebra! Here we'll introduce the most common functions you're likely to see, and different ways to describe functions.**
+**Take the next step in Algebra! Here we'll introduce the most common functions you're likely to see, and different ways to describe functions.**
 
 
 ### REAL NUMBERS
