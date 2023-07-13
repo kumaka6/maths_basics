@@ -1,6 +1,3 @@
-# MATHS BASICS
-
-This repository contains mathematics basic revision from [schoolyourself.org](https://schoolyourself.org/)  
 
 # MATHEMATICS:
 
@@ -540,6 +537,8 @@ This repository contains mathematics basic revision from [schoolyourself.org](ht
 `coming soon`
 
 
+# MATHS BASICS
 
+This repository contains mathematics basic revision from [schoolyourself.org](https://schoolyourself.org/)  
 
 
