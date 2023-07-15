@@ -4,7 +4,14 @@
 
 ### LIMITS
 1.	**Limits to infinity**: What happens to functions as *x* gets really, really big?  
-2.	**Vertical limits**: Sometimes *y* goes off to infinity.
+	+ lim
+	+ **Horizontal asymptotes** 
+	+ 
+2.	**Vertical limits**: Sometimes *y* goes off to infinity.  
+	+ 
+	+ A function's **domain** is all the **inputs** that have an output.  
+	+ A function's **range** is all the possible **outputs.** 
+	+ 
 3.	**Finite limits**: Limits when both *x* and *y* stay finite.  
 4.	**One-sided limits**: Limits that come from only the left or right side.
 5.	**Continuity (for real)**: Dive deeper into continuity, using one-sided limits.
